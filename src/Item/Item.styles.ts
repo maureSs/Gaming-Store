@@ -6,12 +6,12 @@ export const Wrapper = styled.div`
   flex-direction: column;
   width: 100%;
   border: 2px solid #e9bbbc;
-  border-radius: 20px;
+  border-radius: 21px;
   height: 100%;
 
   button {
     border-radius: 0 0 18px 18px;
-    background-color: #f3f7f7;
+    background-color: #e5c1c4;
   }
 
   img {

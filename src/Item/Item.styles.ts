@@ -5,12 +5,13 @@ export const Wrapper = styled.div`
   justify-content: space-between;
   flex-direction: column;
   width: 100%;
-  border: 2px solid #68d4cf;
+  border: 2px solid #e9bbbc;
   border-radius: 20px;
   height: 100%;
 
   button {
-    border-radius: 0 0 20px 20px;
+    border-radius: 0 0 18px 18px;
+    background-color: #f3f7f7;
   }
 
   img {
@@ -23,5 +24,13 @@ export const Wrapper = styled.div`
     font-family: Arial, Helvetica, sans-serif;
     padding: 1rem;
     height: 100%;
+  }
+
+  .product-name {
+    text-align: center;
+  }
+
+  .add-to-cart {
+    font-family: 'Verdana';
   }
 `;

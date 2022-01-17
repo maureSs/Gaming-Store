@@ -39,4 +39,4 @@ The purpose of this application is to simulate an ecommerce for purchasing gamin
 
 DISCLAIMER: It is only a simulation, I am not associated with any of the brands, nor do I sell their products.
 
-Made by Maures :)
+Made by maureS :)
